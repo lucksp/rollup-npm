@@ -1,0 +1,26 @@
+{
+  "name": "loginas",
+  "version": "0.0.0",
+  "description": "LoginAs provider for development",
+  "main": "src/index.tsx",
+  "module": "build/bundle.utils.js",
+  "types": "./build/types/index.d.ts",
+  "scripts": {
+    "dev": "parcel src/sandbox/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gogoair.com/dashwebapps/utils"
+  },
+  "author": "Philip Lucks",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "@babel/runtime": "^7.11.2",
+    "@types/react": "^16.9.49",
+    "@types/react-dom": "^16.9.8",
+    "parcel-bundler": "^1.12.4"
+  }
+}

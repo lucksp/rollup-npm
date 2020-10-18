@@ -1,0 +1,15 @@
+**/node_modules
+**/dist
+.gitignore
+.eslintrc.js
+.eslintignore
+.prettierrc.js
+.prettierignore
+rollup.config.js
+tsconfig.json
+**/sandbox
+**/.cache
+**/__tests__
+**/__mocks__
+**/__fixtures__
+**/test-utils
