@@ -6,7 +6,7 @@
 
 Each feature will likely have its own dependencis, so make sure to run `npm install` in root & for each project.
 
-- [LoginAs](-/tree/master/LoginAs): Handles local-development login functionality
+- [LoginAs](tree/main/src/LoginAs): Handles local-development login functionality
 
 ### Tech details:
 
