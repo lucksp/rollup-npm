@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucksp/npm-test.git"
+    "url": "git+https://github.com/lucksp/rollup-npm.git"
   },
   "author": "Philip Lucks",
   "license": "ISC",
@@ -63,8 +63,8 @@
     "typescript": "^4.0.3"
   },
   "bugs": {
-    "url": "https://github.com/lucksp/npm-test/issues"
+    "url": "https://github.com/lucksp/rollup-npm/issues"
   },
-  "homepage": "https://github.com/lucksp/npm-test#readme",
+  "homepage": "https://github.com/lucksp/rollup-npm",
   "dependencies": {}
 }
